@@ -9,16 +9,27 @@ If you like the project and appreciate the efforts made, give us a cup of coffee
 
 Plans:
     [!] Metal Gear Solid 2
+    
     [p] Metal Gear Solid 3
+    
     [!] Ratchet & Clank 1
+    
     [p] Ratchet & Clank 3
+    
     [?] Shadow of the Colossus
+    
     [?] Valkyrie Profile 2: Silmeria
+    
     [?] Xenosaga Episode III: Also sprach Zarathustra
+    
     [?] Xenoblade Chronicles
+    
     [?] The Legend of Zelda: Twilight Princess
+    
     [?] Metroid Prime
+    
     [?] Metroid Prime 2: Echoes
+    
     [?] Metroid Prime 3: Corruption
 
 Symbols:
