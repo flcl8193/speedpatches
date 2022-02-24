@@ -1,7 +1,7 @@
 # Speed patches
 A collection of patches to increase the performance of PS2, GC, WII games on PCSX2, AetherSX2 and Dolphin emulators.
 
-Read the contents of the "console/game/note.txt" file for instructions and bugs.
+Read the contents of the "(console)/(game)/note.txt" file for instructions and bugs.
 
 The main idea of ​​this project is to make impossible-to-pass games for PC and Android tablets completely passable with a smooth and stable gameplay.
 
