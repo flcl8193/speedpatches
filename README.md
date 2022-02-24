@@ -11,7 +11,7 @@ Plans:
 
     [!] Metal Gear Solid 2
     
-    [p] Metal Gear Solid 3
+    [?] Metal Gear Solid 3
     
     [!] Ratchet & Clank 1
     
