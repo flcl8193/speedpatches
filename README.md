@@ -34,6 +34,7 @@ Plans:
     [?] Metroid Prime 3: Corruption
 
 Symbols:
+
     ok - (successfully) the patch is complete and works as expected.
     
     ! - (seriously) serious problems in the creation of the patch.
