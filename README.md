@@ -35,8 +35,11 @@ Plans:
 
 Symbols:
     ok - (successfully) the patch is complete and works as expected.
+    
     ! - (seriously) serious problems in the creation of the patch.
+    
     p - (partially) the patch works, but does not apply to all functions of the game
+    
     ? - (unknown) work on the creation has not yet begun
 
 The list will be updated and patches too.
