@@ -4,9 +4,11 @@ Copy the file "17125698.pnach" to the folder "cheats" for pc (pcsx2) or android 
 
 Customization:
 
-EE Cycle Rate: 100%
+EE Cycle Rate: 180%
 EE Cycle Skip : 0
-Slow Motion Speed: 40%
+Slow Motion Speed: 
+    40% for PAL 
+    42% for NTSC
 Audio (pcsx2 SPU-2) Synchronization Mode : Async Mix
 Enable Cheats / Patch Codes : yes
 
