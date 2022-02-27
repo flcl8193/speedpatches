@@ -17,8 +17,6 @@ Plans:
     
     [p] Ratchet & Clank 3
     
-    [?] Shadow of the Colossus
-    
     [?] Valkyrie Profile 2: Silmeria
     
     [?] Xenosaga Episode III: Also sprach Zarathustra
