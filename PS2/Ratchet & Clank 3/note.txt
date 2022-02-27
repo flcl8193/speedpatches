@@ -1,23 +1,19 @@
 Installation:
-
-Copy the file "17125698.pnach" to the folder "cheats" for pc (pcsx2) or android (AetherSX2) respectively.
+    Copy the file "17125698.pnach" to the folder "cheats" for pc (pcsx2) or android (AetherSX2) respectively.
 
 Customization:
-
-EE Cycle Rate: 180%
-EE Cycle Skip : 0
-Slow Motion Speed: 
-    40% for PAL 
-    42% for NTSC
-Audio (pcsx2 SPU-2) Synchronization Mode : Async Mix
-Enable Cheats / Patch Codes : yes
+    EE Cycle Rate: 180%
+    EE Cycle Skip : 0
+    Slow Motion Speed: 
+        40% for PAL 
+        42% for NTSC
+    Audio (pcsx2 SPU-2) Synchronization Mode : Async Mix
+    Enable Cheats / Patch Codes : yes
 
 Notes:
-
-During gameplay, you need to slow down the frame rate to the set 40%.
-For pcsx2, use SHIFT+TAB.
-For AetherSX2 the corresponding button.
+    During gameplay, you need to slow down the frame rate.
+    For pcsx2, use SHIFT+TAB.
+    For AetherSX2 the corresponding button.
 
 Errors:
-
-During cutscenes and video, slowing down causes asynchronous audio and video.
+    During cutscenes and video, slowing down causes asynchronous audio and video.
