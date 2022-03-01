@@ -1,9 +1,7 @@
 # Speed patches
 A collection of patches to increase the performance of PS2, GC, WII games on PCSX2, AetherSX2 and Dolphin emulators.
 
-Read the contents of the "(console)/(game)/note.txt" file for instructions and bugs.
-
-The main idea of ​​this project is to make impossible-to-pass games for PC and Android tablets completely passable with a smooth and stable gameplay.
+The main idea of this project is to make impossible-to-pass games for PC and Android completely passable with a smooth and stable gameplay.
 
 If you like the project and appreciate the efforts made, give us a cup of coffee.
 
@@ -14,6 +12,8 @@ Plans:
     [?] Metal Gear Solid 3
     
     [!] Ratchet & Clank 1
+    
+    [p] Ratchet & Clank 2
     
     [p] Ratchet & Clank 3
     
@@ -42,4 +42,3 @@ Symbols:
     ? - (unknown) work on the creation has not yet begun
 
 The list will be updated and patches too.
-But this is a difficult job and needs help from everyone and also in coffee.
