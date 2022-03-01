@@ -1,8 +1,8 @@
-Notes:
+NOTES
 
 During gameplay, you need to slow down the frame rate.
     
-[Settings]
+SETTINGS
 
 EE Cycle Rate: 180%
 EE Cycle Skip : 0
@@ -11,6 +11,7 @@ Slow Motion Speed:
     42% for NTSC
 Audio synchronization mode : Async Mix
 
-[Patch]
+PATCH
 
+SCES-52456, SCUS-97353
 
