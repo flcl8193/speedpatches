@@ -1,0 +1,17 @@
+NOTES
+
+During gameplay, you need to slow down the frame rate.
+    
+SETTINGS
+
+EE Cycle Rate: 180%
+EE Cycle Skip : 0
+Slow Motion Speed: 50% for PAL
+Audio synchronization mode : Async Mix
+
+PATCH
+
+SCES-52456:
+
+patch=1,EE,201a7d00,word,00000002 //Gameplay speed
+patch=1,EE,201a7d04,word,00000000 //Timer
