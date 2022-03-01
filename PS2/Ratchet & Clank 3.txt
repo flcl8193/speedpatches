@@ -15,3 +15,6 @@ PATCH
 
 SCES-52456, SCUS-97353
 
+patch=1,EE,201d56c0,word,00000002 //Gameplay speed
+patch=1,EE,201d56c4,word,00000000 //Timer
+patch=1,EE,203bb9a4,word,3c013f00 //Main menu speed
