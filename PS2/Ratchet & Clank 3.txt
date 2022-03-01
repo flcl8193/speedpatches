@@ -1,15 +1,16 @@
-[Notes]
-    During gameplay, you need to slow down the frame rate.
-    For pcsx2, use SHIFT+TAB.
-    For AetherSX2 the corresponding button.
-    
-Settings:
-    EE Cycle Rate: 180%
-    EE Cycle Skip : 0
-    Slow Motion Speed: 
-        40% for PAL 
-        42% for NTSC
-    Audio synchronization mode : Async Mix
+Notes:
 
-Patch:
-    NTSC 
+During gameplay, you need to slow down the frame rate.
+    
+[Settings]
+
+EE Cycle Rate: 180%
+EE Cycle Skip : 0
+Slow Motion Speed: 
+    40% for PAL 
+    42% for NTSC
+Audio synchronization mode : Async Mix
+
+[Patch]
+
+
