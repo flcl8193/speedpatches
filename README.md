@@ -4,10 +4,6 @@ A collection of patches to increase the performance of PS2, GC, WII games on PCS
 The main idea of this project is to make impossible-to-pass games for PC and Android completely passable with a smooth and stable gameplay.
 
 Plans:
-
-    [!] Metal Gear Solid 2
-    
-    [?] Metal Gear Solid 3
     
     [!] Ratchet & Clank 1
     
