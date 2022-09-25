@@ -4,35 +4,17 @@ A collection of patches to increase the performance of PS2, GC, WII games on PCS
 The main idea of this project is to make impossible-to-pass games for PC and Android completely passable with a smooth and stable gameplay.
 
 Plans:
-    
-    [!] Ratchet & Clank 1
-    
-    [p] Ratchet & Clank 2
-    
-    [p] Ratchet & Clank 3
-    
-    [?] Valkyrie Profile 2: Silmeria
-    
-    [?] Xenosaga Episode III: Also sprach Zarathustra
-    
-    [?] Xenoblade Chronicles
-    
-    [?] The Legend of Zelda: Twilight Princess
-    
-    [?] Metroid Prime
-    
-    [?] Metroid Prime 2: Echoes
-    
-    [?] Metroid Prime 3: Corruption
 
-Symbols:
-
-    ok - (successfully) the patch is complete and works as expected.
+    Ratchet & Clank 1 (PS2) - planned
     
-    ! - (seriously) serious problems in the creation of the patch.
+    Ratchet & Clank 2 (PS2) - partially
     
-    p - (partially) the patch works, but does not apply to all functions of the game
+    Ratchet & Clank 3 (PS2) - partially
     
-    ? - (unknown) work on the creation has not yet begun
-
-The list will be updated and patches too.
+    Michigan: Report from Hell (PS2) - done
+    
+    Valkyrie Profile 2: Silmeria (PS2) - planned
+    
+    Xenosaga Episode III: Also sprach Zarathustra (PS2) - planned
+    
+    Xenoblade Chronicles (Wii) - planned
