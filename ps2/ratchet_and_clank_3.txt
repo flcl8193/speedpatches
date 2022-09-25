@@ -9,7 +9,7 @@ EE Cycle Skip : 0
 Slow Motion Speed : NTSC=42%, PAL=40%
 Audio synchronization mode : Async Mix
 
-#PATH
+#PATCH
 
 SCES-52456, SCUS-97353:
 patch=1,EE,201d56c0,word,00000002 //Gameplay speed
