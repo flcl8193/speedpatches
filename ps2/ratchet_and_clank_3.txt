@@ -1,4 +1,4 @@
-NOTES
+NOTES:
 
 During gameplay, you need to slow down the frame rate.
     
