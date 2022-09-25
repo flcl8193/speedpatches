@@ -1,4 +1,4 @@
-NOTES :
+#NOTES
 During gameplay, you need to slow down the frame rate.
     
 SETTINGS
@@ -9,8 +9,6 @@ Slow Motion Speed :
     40% for PAL 
     42% for NTSC
 Audio synchronization mode : Async Mix
-
-PATCH 
 
 SCES-52456, SCUS-97353 :
 
