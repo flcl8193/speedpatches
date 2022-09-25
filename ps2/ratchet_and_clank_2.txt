@@ -8,7 +8,8 @@ EE Cycle Rate : 180%
 EE Cycle Skip : 0
 Slow Motion Speed : SCES-51607=50%
 Audio synchronization mode : Async Mix
-#PATH
+
+#PATCH
 
 SCES-51607:
 patch=1,EE,201a7d00,word,00000002 //Gameplay speed
