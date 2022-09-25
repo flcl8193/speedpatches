@@ -14,4 +14,4 @@ Audio synchronization mode : Async Mix
 #PATCH
 
 SLES-53073:
-patch=1,EE,2029c910,word,00000001 // Global speed
+patch=1,EE,2029c910,word,00000001 //Global speed
