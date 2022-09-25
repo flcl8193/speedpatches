@@ -1,1 +1,17 @@
-#
+#NOTES
+
+It is necessary to write the line "FrameratePAL = 25.00" 
+in the emulator settings file under the "[EmuCore/GS]" section.
+Run the game only in PAL mode (SET VIDEO MODE PAL(50Hz)).
+When playing FMV, the sound lags.
+    
+#SETTINGS
+
+EE Cycle Rate : 75%
+EE Cycle Skip : 0
+Audio synchronization mode : Async Mix
+
+#PATCH
+
+SLES-53073:
+patch=1,EE,2029c910,word,00000001 // Global speed
